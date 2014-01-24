@@ -1,0 +1,18 @@
+{
+  "name": "simple-test-runner",
+  "version": "0.0.1",
+  "description": "Small helper for unit tests run",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "keywords": [
+    "tests"
+  ],
+  "author": "Alexander Deider <arth.inbox@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.2.10",
+    "assert": "~1.1.0"
+  }
+}
