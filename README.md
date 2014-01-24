@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/vpArth/simple-test-runner.png?branch=master)](https://travis-ci.org/vpArth/simple-test-runner)
+[![NPM version](https://badge.fury.io/js/simple-test-runner.png)](http://badge.fury.io/js/simple-test-runner)
+
 simple-test-runner
 ================
 
