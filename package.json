@@ -1,6 +1,6 @@
 {
   "name": "simple-test-runner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Small helper for unit tests run",
   "main": "index.js",
   "scripts": {
